@@ -8,5 +8,5 @@ Estou criando este site para um projeto pessoal. Tecnologias utilizadas:
 
 [Código](https://github.com/LipzDev/Consultoria-Site)
 
-![Site 01]()
+![Preview](https://github.com/LipzDev/Consultoria-Site/blob/main/layout1.png)
 
